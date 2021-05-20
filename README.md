@@ -36,6 +36,6 @@ get deep understanding of git hub
  > git tag <version: 1.1.0>
 ## pushing tags
  > git push <stream: origin> --tags
+ ### pushing tag directly
  > git push <stream: origin> tag <version: 1.0.0>
- > 
 
