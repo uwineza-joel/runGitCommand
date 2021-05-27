@@ -11,6 +11,8 @@ get deep understanding of git hub
  > git clone [Http link]
 ## clone via SSH
  > git clone [SSH link]
+## adding remote stream
+ > git remote add origin [SSH link]
 ## check git streams
  > git remote -v
 ## fetching and pulling
