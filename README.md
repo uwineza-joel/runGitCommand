@@ -24,7 +24,7 @@ get deep understanding of git hub
  ### To create new key cd to ~/.ssh
  > ssh-keygen -t rsa  
  ### After creating this key cat it out to copy it to deploy key tab
- > cat ~/.ssh/filename 
+ > cat ~/.ssh/filename.pub
  ### no extension just name only
 ## pushing your change to remote repo
  > git push -u <stream: origin> [branch]
